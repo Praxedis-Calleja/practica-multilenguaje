@@ -31,5 +31,5 @@ int main() {
         cout << "No es un numero palindromo." << endl;
     }
 
-    return 0; // Buen hábito incluirlo aunque no es obligatorio en C++
+    return 0; 
 }

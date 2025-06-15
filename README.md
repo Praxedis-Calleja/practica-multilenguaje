@@ -11,7 +11,7 @@ Este proyecto tiene como objetivo implementar un programa que verifique si un n�
 Un número se considera **palíndromo** si se lee igual de izquierda a derecha que de derecha a izquierda.  
 Por ejemplo:
 - `121` → palíndromo  
-- `123` → o es palíndromo  
+- `123` → No es palíndromo  
 - `1221` → palíndromo  
 
 Este proyecto permite comparar la lógica, la sintaxis y la ejecución de un mismo problema resuelto en múltiples lenguajes, fomentando el aprendizaje práctico y el análisis del paradigma de cada uno.

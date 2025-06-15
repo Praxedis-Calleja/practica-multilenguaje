@@ -5,10 +5,7 @@
 Desarrollar un programa en C++ que determine si un número entero ingresado por el usuario es un **número palíndromo**.  
 Un número se considera palíndromo cuando se lee igual de izquierda a derecha que de derecha a izquierda.
 
-**Ejemplos:**
-- `121` → palíndromo ✅
-- `123` → no es palíndromo ❌
-- `1221` → palíndromo ✅
+
 
 ## Explicación del código
 Función esPalindromo(int numero)
